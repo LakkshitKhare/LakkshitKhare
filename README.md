@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LakkshitKhare
 - 👀 I’m interested in UI/UX 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on any Python projects  
 - 📫 Reach me through linkedin
 
