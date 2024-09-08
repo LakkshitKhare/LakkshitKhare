@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a B.Tech student and aspiring software enginee
 
 ## 🌟 About Me
 
-![About Me](https://th.bing.com/th/id/OIP.htzCblSutNoQAaK5oyg5uwHaEK?rs=1&pid=ImgDetMain) <!-- Software development image -->
+<img src="https://th.bing.com/th/id/OIP.htzCblSutNoQAaK5oyg5uwHaEK?rs=1&pid=ImgDetMain" alt="About Me" width="800" />
 
 - **Name**: Lakkshit Khare
 - **LinkedIn**: [www.linkedin.com/in/lakkshit-khare-89685320b](https://www.linkedin.com/in/lakkshit-khare-89685320b)
