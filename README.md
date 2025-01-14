@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a B.Tech student and aspiring software enginee
 - **Name**: Lakkshit Khare
 - **LinkedIn**: [www.linkedin.com/in/lakkshit-khare-89685320b](https://www.linkedin.com/in/lakkshit-khare-89685320b)
 - **Email**: [lakkshitkhare@gmail.com](mailto:lakkshitkhare@gmail.com)
-- **Website**:[https://lakkshitkhare.github.io]
+- **Website**:[lakkshitkhare.github.io](https://lakkshitkhare.github.io/)
 - **Objective**: Aspiring software engineer with a solid foundation in programming languages and algorithms. Looking for an entry-level position to apply my skills and learn from industry professionals.
 
 ## 📚 Education
