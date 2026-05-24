@@ -1,64 +1,204 @@
-# Hi, I'm Lakkshit Khare 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Lakkshit Khare
 
-Welcome to my GitHub profile! I'm a B.Tech student and aspiring software engineer with a passion for coding and problem-solving. Explore my projects and achievements below!
+<div align="center">
 
-## 🌟 About Me
+### 🚀 Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
-<img src="https://th.bing.com/th/id/OIP.htzCblSutNoQAaK5oyg5uwHaEK?rs=1&pid=ImgDetMain" alt="About Me" width="800" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Engineer;Spring+Boot+%7C+Angular+Developer;Data+Science+Enthusiast;Building+Scalable+Solutions!" />
 
-- **Name**: Lakkshit Khare
-- **LinkedIn**: [www.linkedin.com/in/lakkshit-khare-89685320b](https://www.linkedin.com/in/lakkshit-khare-89685320b)
-- **Email**: [lakkshitkhare@gmail.com](mailto:lakkshitkhare@gmail.com)
-- **Website**:[lakkshitkhare.github.io](https://lakkshitkhare.github.io/)
-- **Objective**: Aspiring software engineer with a solid foundation in programming languages and algorithms. Looking for an entry-level position to apply my skills and learn from industry professionals.
-
-## 📚 Education
-
-- **B.Tech** in Technology, Kalinga Institute of Industrial Technology, Bhubaneshwar (Expected 2026)
-
-## 💡 Skills
-
-- **Languages**: Java, C, Python, HTML/CSS
-- **Technologies**: AI/ML, SQL, Prompt Engineering
-- **Soft Skills**: Writing, Logical Reasoning
-
-## 💼 Experience
-
-### Content Writer at Marpu Foundation
-Worked as a content writing intern, creating impactful content about donations and their effects on children in need.  
-*October 2023 - December 2023*
-
-### AI/ML Intern at BIT-MESRA
-Developed a deep learning model to predict groundwater availability based on geophysical factors. Gained expertise in geospatial analytics and machine learning.  
-*May 2024 - July 2024*
-
-### Goldman Sachs Software Engineering Virtual Experience Program
-Completed a job simulation, identified outdated password hashing with Hashcat, and recommended security improvements.  
-*September 2024*
-
-## 🚀 Projects
-
-### 🏦 ATMcopy.py
-A Python project that simulates the functionality of an ATM, including features like account management and transactions. [View Code](https://github.com/YourUsername/CollegeProjects/blob/master/ATMcopy.py)
-
-### 🐍 Snake Water Gun.py
-A Python game where players compete against the computer in the classic Snake Water Gun game. [View Code](https://github.com/YourUsername/CollegeProjects/blob/master/Snake%20Water%20Gun.py)
-
-### 🔢 matrix.c
-A C program that performs matrix operations such as addition, subtraction, and multiplication. [View Code](https://github.com/YourUsername/CollegeProjects/blob/master/matrix.c)
-
-### 💸 short_questionaire_with_money.py
-A Python script for a short questionnaire application with basic monetary transactions or calculations. [View Code](https://github.com/YourUsername/CollegeProjects/blob/master/short_questionaire_with_money.py)
-
-## 🏆 Certifications
-
-- **Prompt Engineering for ChatGPT**: Expertise in crafting effective prompts for AI models.
-- **Goldman Sachs Software Engineering on Forage**: Focused on IT security and improvements.
-
-## 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-orange?logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF5722?logo=google&logoColor=white)
+</div>
 
 ---
 
-*Thanks for checking out my profile! I’m always open to new opportunities and collaborations.*
+# 🌟 About Me
+
+🎓 B.Tech Student at **Kalinga Institute of Industrial Technology (KIIT)**  
+💡 Passionate about **Software Development, AI/ML, Backend Engineering & Data Science**  
+🚀 Experienced in building **AI-powered applications, recommendation systems, and scalable full-stack platforms**  
+📚 Currently learning **Advanced DSA, System Design, and Enterprise Development**  
+🎯 Aspiring to become a skilled Software Engineer focused on impactful products and intelligent systems  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/LakkshitKhare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/lakkshit-khare-89685320b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:lakkshitkhare@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://lakkshitkhare.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white">
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,typescript,javascript,html,css,sql" />
+</p>
+
+## ⚙️ Frameworks & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=spring,angular,fastapi,nodejs,bootstrap" />
+</p>
+
+## 🤖 AI/ML & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Machine Learning  
+- Deep Learning  
+- Recommendation Systems  
+- Data Analytics  
+- Predictive Modeling  
+- NLP & Prompt Engineering  
+
+## 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,idea,postman" />
+</p>
+
+Additional Tools:
+- JupyterLab
+- Google Colab
+- IBM Watson Studio
+- Hadoop
+- Quadratic AI
+
+---
+
+# 💼 Experience
+
+## 🏢 System Engineer Intern — Infosys  
+📅 *Dec 2025 – May 2026*
+
+- Worked on modern full-stack technologies including **Angular, Spring Boot, MySQL, and TypeScript**
+- Collaborated in an **Agile development environment** on team-based enterprise projects
+- Contributed to both frontend and backend development tasks
+- Managed collaborative workflows using **Git & GitHub**
+- Gained practical experience in scalable application development and software engineering practices
+
+---
+
+## 🧠 Machine Learning Intern — BIT Mesra  
+📅 *May 2024 – July 2024*
+
+- Developed a deep learning model for **groundwater availability prediction**
+- Achieved **89% accuracy** using geospatial and geophysical datasets
+- Worked on preprocessing and analysis for natural disaster impact datasets
+- Evaluated models using **Precision, Recall, and F1-Score**
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Job Matcher
+AI-powered job matching platform that recommends jobs based on resume analysis, preferred role, and location.
+
+### ✨ Features
+- Resume Parsing
+- AI-powered Job Recommendations
+- Gemini API CV Generation
+- FastAPI Backend
+- Streamlit Frontend
+
+### 🛠️ Tech Used
+`FastAPI` `Streamlit` `Gemini API` `Python`
+
+---
+
+## 🎵 Spotify Music Recommendation System
+Personalized recommendation system using Spotify playlist data and Machine Learning.
+
+### Features
+- Playlist-based recommendations
+- User preference analysis
+- Recommendation Engine
+- End-to-End ML Pipeline
+
+---
+
+## 🧠 Mental Health Analysis using EEG Signals
+Machine Learning project focused on predicting depression severity using physiological signal analysis.
+
+### Highlights
+- Signal Processing
+- Classification & Regression Models
+- Predictive Analytics
+- Research-based workflow
+
+---
+
+# 📚 Education
+
+🎓 **Bachelor of Technology (B.Tech)**  
+🏫 Kalinga Institute of Industrial Technology (KIIT)  
+📅 2022 – 2026  
+📊 CGPA: **8.03**
+
+---
+
+# 📜 Certifications
+
+🏅 IBM Data Science & Big Data Foundations Certificate  
+🏅 Goldman Sachs Software Engineering Virtual Experience  
+🏅 Prompt Engineering for ChatGPT  
+
+---
+
+# 📝 Publications
+
+📄 Published Journal Paper during internship at **NIAMT, Ranchi**
+
+### Research Focus
+- Depression severity prediction
+- Physiological signal analysis
+- Predictive mental health modeling
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=LakkshitKhare&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LakkshitKhare&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakkshitKhare&theme=tokyonight&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+✅ Advanced DSA in Java  
+✅ Full Stack Development with Spring Boot & Angular  
+✅ AI/ML Projects & Deployment  
+✅ Backend Engineering  
+✅ Software Engineering Interview Preparation  
+
+---
+
+# ✨ Fun Fact
+
+```python
+while(alive):
+    learn()
+    code()
+    build()
+    improve()
