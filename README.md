@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://lakkshitkhare.github.io/">
+<a href="https://lakshshit-khare-u2xvc1p.gamma.site/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white">
 </a>
 </p>
