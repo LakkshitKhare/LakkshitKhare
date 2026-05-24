@@ -120,17 +120,6 @@ AI-powered job matching platform that recommends jobs based on resume analysis, 
 
 ---
 
-## 🎵 Spotify Music Recommendation System
-Personalized recommendation system using Spotify playlist data and Machine Learning.
-
-### Features
-- Playlist-based recommendations
-- User preference analysis
-- Recommendation Engine
-- End-to-End ML Pipeline
-
----
-
 ## 🧠 Mental Health Analysis using EEG Signals
 Machine Learning project focused on predicting depression severity using physiological signal analysis.
 
